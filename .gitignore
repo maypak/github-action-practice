@@ -127,7 +127,7 @@ application.properties
 /.aws-sam/
 /node_modules/
 *.zip
-package-lock.json
+# package-lock.json
 
 # Logs
 logs
